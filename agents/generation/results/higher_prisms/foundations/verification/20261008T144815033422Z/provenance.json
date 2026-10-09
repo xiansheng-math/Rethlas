@@ -1,0 +1,12 @@
+{
+  "problem_id": "higher_prisms/foundations",
+  "submitted_at_utc": "20261008T144815033422Z",
+  "proof_sha256": "8b54f7e474e56ef7d459b39af0cccb2980f2c1130a8b023d2fc37c15b0c9f959",
+  "statement_sha256": "bd758050d3c65ffe59e1562dd2eaac09f1b52a3c9c46d4fa4336c02baa0ea813",
+  "mcp_tool": "verify_proof_service",
+  "timeout_seconds": 3600,
+  "source": "results/higher_prisms/foundations/blueprint.md",
+  "runner_settings_changed": false,
+  "returned_at_utc": "2026-10-08T15:16:13.829385+00:00",
+  "response_sha256": "8c1f36bff9f4edb13f0ea33c6cc86c29d2c56396cd18d616d7112c72241e555d"
+}

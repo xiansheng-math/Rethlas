@@ -1,0 +1,13 @@
+{
+  "problem_id": "higher_prisms/foundations",
+  "published_at_utc": "2026-10-08T15:19:03.048812+00:00",
+  "verified_blueprint": "results/higher_prisms/foundations/blueprint_verified.md",
+  "proof_sha256": "8b54f7e474e56ef7d459b39af0cccb2980f2c1130a8b023d2fc37c15b0c9f959",
+  "submission_directory": "results/higher_prisms/foundations/verification/20261008T144815033422Z",
+  "verifier_response": "results/higher_prisms/foundations/verification/20261008T144815033422Z/verifier_response.json",
+  "verifier_response_sha256": "8c1f36bff9f4edb13f0ea33c6cc86c29d2c56396cd18d616d7112c72241e555d",
+  "verdict": "correct",
+  "critical_errors": [],
+  "gaps": [],
+  "runner_settings_changed": false
+}
