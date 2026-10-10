@@ -1,5 +1,11 @@
 # Rethlas
 
+## About this fork
+
+This is Xiansheng Li's public tool fork of [frenzymath/Rethlas](https://github.com/frenzymath/Rethlas). It contains the reasoning runtime and selected published research snapshots. Working manuscripts, research memory, and the consolidated research index are maintained in a separate private research archive.
+
+The latest published research snapshot is [higher-prism foundations](RESEARCH.md), committed on 2026-10-09. See that page for the manuscript, supporting notes, exact submission, and model-review evidence.
+
 Rethlas is a natural-language reasoning system for mathematics built around two Codex agents:
 
 - The generation agent reads a math problem from a markdown file and writes an informal proof blueprint.
